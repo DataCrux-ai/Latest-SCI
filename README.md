@@ -16,6 +16,7 @@ Before running the script, ensure you have the following installed:
 pip install selenium boto3
 
 # Configuration 
+- Download the latest chromedriver as per system version from : https://getwebdriver.com/chromedriver#stable
 - chromedriver_path = "/Users/yourusername/Desktop/selenium/chromedriver"
 - download_dir = "/Users/yourusername/Desktop/selenium/downloaded_pdfs"
 - judgments_page_url = "https://www.sci.gov.in/#1697446384453-9aeef8cc-5f35"
